@@ -2,7 +2,7 @@
 
 Ссылка на проект: https://t.me/TestVoobra_Bot
 
-![Скриншот 1](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/1.png?raw=true)
+
 ![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/2.png?raw=true)
 
 

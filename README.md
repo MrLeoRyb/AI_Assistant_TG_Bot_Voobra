@@ -15,11 +15,12 @@
 
 Подключена CRM система:
 
-![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/2.png?raw=true)
+![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/amo_deal.png?raw=true)
+![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/crm_applied.png?raw=true)
 
 Интеграции с Google Calendar и Telegram:
 
-![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/2.png?raw=true)
+![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/integr_applied.png?raw=true)
 
 ---
 

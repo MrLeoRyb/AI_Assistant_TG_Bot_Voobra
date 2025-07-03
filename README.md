@@ -13,13 +13,13 @@
 
 Ассистент обеспечивает круглосуточную поддержку, автоматизирует рутинные задачи администратора и улучшает пользовательский опыт. Также реализована интеграция с **AmoCRM**, что позволяет централизованно управлять взаимодействием с клиентами, отслеживать записи и историю переписки.
 
-Подключена CRM система:
-
+Диалог из ТГ-бота попадает в CRM и оформляется в сделку:
 ![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/amo_deal.png?raw=true)
+
+Подключенная CRM в конструкторе ассистента:
 ![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/crm_applied.png?raw=true)
 
-Интеграции с Google Calendar и Telegram:
-
+Интеграции с Google Calendar и Telegram в настройках ассистента:
 ![Скриншот 2](https://github.com/MrLeoRyb/AI_Assistant_TG_Bot_Voobra/blob/main/integr_applied.png?raw=true)
 
 ---
